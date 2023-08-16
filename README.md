@@ -6,7 +6,7 @@ Please note that the code has been executed on a representative subset of the da
 
 Access to Complete Dataset:
 
-For those interested in exploring the research further and obtaining access to the complete dataset, kindly contact us via email at [mqorbani3@gatech.edu]. We are dedicated to facilitating your access to the dataset to enable a more comprehensive investigation.
+For those interested in exploring the research further and obtaining access to the complete dataset, kindly contact us via email at [mqorbani3@gatech.edu, pouyan.saj@gmail.com]. We are dedicated to facilitating your access to the dataset to enable a more comprehensive investigation.
 
 **Usage:**
 
